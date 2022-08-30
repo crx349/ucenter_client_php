@@ -20,7 +20,7 @@ git clone https://gitee.com/crx349/ucenter_client_php uc_client
 
 在使用中有任何问题，请使用以下联系方式联系我们
 
-QQ: ![842062626](http://www.xmspace.net/qq.gif "QQ联系") 
+QQ: [![842062626](http://www.xmspace.net/qq.gif "QQ联系")](https://wpa.qq.com/msgrd?v=3&uin=842062626&site=qq&menu=yes)  
 
 
 
